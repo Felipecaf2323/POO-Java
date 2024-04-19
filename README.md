@@ -1,3 +1,3 @@
-Projetos e exercícios desenvolvidos na disciplina Programação Orientada a Objetos (POO) com a linguagem Java
-Docente: Jose Antonio Gonçalves 
-Instituição: Universidade Tecnológica Federal do Paraná
+- Projetos e exercícios desenvolvidos na disciplina Programação Orientada a Objetos (POO) com a linguagem Java<br/>
+- <strong>Docente</strong>: José Antonio Gonçalves<br/>
+- <strong>Instituição</strong>: Universidade Tecnológica Federal do Paraná (UTFPR)
